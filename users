@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Desc User check
+
+grep $1 /etc/passwd
+
+if [ $? -eq 0 ]
+then 
+
+echo "user exists"
+
+else
+
+echo "User does not exist"
+
+fi
+
