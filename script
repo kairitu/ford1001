@@ -1,2 +1,4 @@
 #!/bin/bash
+# Desc: this is fun
+# Author : Kairitu
 echo "am a happy programmer, six figures coming up"
