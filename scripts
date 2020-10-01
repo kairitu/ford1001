@@ -2,3 +2,8 @@
 
 ## i need at least one interview to see what is going on
 
+lscpu
+lsblk
+ls
+free -m
+cat /etc/*release
